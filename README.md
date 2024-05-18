@@ -18,23 +18,22 @@ you'll need to connect to your twitch chat by editing line 259 and adding your u
 
 other than that, you'll need to write new custom move parses if you want to change from guilty gear, it's also contingent on my setup for guilty gears buttons:
 
-j punch
-u kick
-i slash
-o heavy slash
-l dust
-k dash
-p taunt
-e faultless defense
-q roman cancel
-
-a left
-d right
-s down
-space jump
-b holds a and s for 2 seconds
-w4 holds left for 2 seconds
-w6 holds right for 2 seconds
+* j punch
+* u kick
+* i slash
+* o heavy slash
+* l dust
+* k dash
+* p taunt
+* e faultless defense
+* q roman cancel
+* a left
+* d right
+* s down
+* space jump
+* b holds a and s for 2 seconds
+* w4 holds left for 2 seconds
+* w6 holds right for 2 seconds
 
 there are a bunch of other nice things, read the code to find out how they work
 
