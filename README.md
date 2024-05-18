@@ -6,9 +6,12 @@ Okay so this is hacked together code from a twitch stream where i hacked togethe
 
 you'll need to install pynput and twitch_chat_irc
 
-> pip install pynput
-> pip install twitch_chat_irc
-
+```python
+$ pip install pynput
+```
+```python
+$ pip install twitch_chat_irc
+```
 ## how to use
 
 you'll need to connect to your twitch chat by editing line 259 and adding your username where it says your username goes here!
